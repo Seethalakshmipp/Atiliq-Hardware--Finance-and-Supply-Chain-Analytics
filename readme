@@ -1,0 +1,20 @@
+Atliq-Hardware-Finance-and-Supply-chain-Analytics
+a.	Among the companies in the electronic products industry with the quickest growth is AtliQ Hardware. 
+b.	
+Through a variety of channels, including retail, direct sales, distributor networks, and both online and offline storefronts, it offers a wide range of items to consumers in numerous nations.
+c.	
+Despite their steady growth in recent years, they have had some negative experiences in a few countries. 
+
+d.	AtliQ need a data analytics team to help with its expansion and enable it to make data-driven choices.
+Goals
+--Utilize Data to Gain Deeper Understanding
+--to make decisions based on data
+--Create a team focused on data analytics to assist with the project.
+--The business looks for insights for a few sporadic needs.
+
+Ad-hoc Request 1: Product-wise sales report for given fiscal year
+Ad-hoc Request 2: Monthly total sales report for the given customer
+Ad-hoc Request 3: Stored Procedure for determining the market badge as gold or silver based on total sold quantity
+Ad-hoc Request 4: Top markets, Top products, Top customers based on net sales
+Ad-hoc Request 5: Retrieving top 2 markets in every region by gross sales amount in given fiscal year using dense_rank()
+Ad-hoc Request 6: Forecast Accuracy for all customers for a given fiscal year
